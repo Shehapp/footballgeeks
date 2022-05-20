@@ -1,0 +1,84 @@
+realmadreid
+ronaldo 20 0 2 3
+benzema 4 2 1 1
+marcelo 4 7 0 0
+ramos 1 1 1 2
+bele 4 1 0 0
+navas 3 7 1 1
+casimero 9 4 4 6
+modritc 4 2 1 1
+kross 4 5 0 1
+isco 4 2 5 3
+jonior 4 6 2 1
+roma
+9:45pm
+tue,25Apr
+mancity
+2:45pm
+sat,20May
+Everton
+9:30pm
+sat,11May
+Paris
+9:00pm
+tue,30May
+barcalona
+messi 7 4 0 1
+neymar 4 5 0 0
+danial 4 2 3 0
+xavi 10 0 0 0
+ronaldinho 4 1 1 1
+inesta 1 5 0 0
+tarek 7 5 0 0
+adama 4 5 0 0
+osman 1 4 0 0
+dembli 1 2 3 4
+john 4 5 0 0
+atlitco
+8:45pm
+tue,27Apr
+Bayrn
+3:45pm
+sat,20May
+Everton
+9:30pm
+sat,11May
+juvents
+6:00pm
+tue,30May
+manunited
+fodin 4 5 0 0
+rashford 4 2 1 1
+green 8 5 0 0
+wood 4 7 0 0
+maguir 1 2 0 0
+degia 4 5 0 0
+show 7 8 1 1
+shaw 4 8 2 3
+varan 5 6 0 0
+7mb03l 7 4 2 3
+alix 6 5 0 0
+roma
+9:45pm
+tue,25Apr
+mancity
+2:45pm
+sat,20May
+camtaj
+9:30pm
+sat,9May
+Ahly
+9:00pm
+tue,30May
+realmadreid
+barcalona
+2
+1
+barcalona
+manunited
+2
+5
+barcalona
+manunited
+1
+4

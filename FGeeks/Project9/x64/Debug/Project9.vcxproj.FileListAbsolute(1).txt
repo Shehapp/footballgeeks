@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.AssemblyReference.cache
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.MyForm.resources
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.GenerateResource.cache
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.login.resources
+C:\Users\sheha\source\repos\Project9\Project9\x64\Debug\Project9.signup.resources
